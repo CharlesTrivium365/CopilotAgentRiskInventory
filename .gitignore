@@ -1,0 +1,22 @@
+# Fichiers produits par le script
+rapports/
+*.csv
+*.html
+
+# Résultats de tests et d'analyse
+TestResults/
+testResults.xml
+*.trx
+
+# Paquets et builds locaux
+out/
+build/
+*.nupkg
+
+# Éditeurs et système
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
